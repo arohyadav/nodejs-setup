@@ -8,10 +8,19 @@ npm install express body-parser
 npm i -D nodemon
 
 
-#scripts     package.json        npm run dev       node server.js
+#scripts     package.json        
 
 
 "start": "node server.js"
 
 
 "dev": "nodemon server.js"
+
+
+#Run Commands
+
+
+npm run dev     
+
+
+node server.js
